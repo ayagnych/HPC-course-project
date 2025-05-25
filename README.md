@@ -2,6 +2,7 @@
 
 ## Project Description
 This project compares the performance of GPU implementations of CUDA matrix multiplication algorithms for 1024x124 matrices.
+[See](https://github.com/ayagnych/HPC-course-project/blob/main/project_yagnych.pdf)
 
 ## Project Features
 - CUDA-acceleration of both algorithms
